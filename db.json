@@ -1,0 +1,102 @@
+[
+  {
+    "name": "S1 Ep1",
+    "networkVideos" : "https://hls32-eu.zcdn.stream/ad6cfb112fe8061eeac78242915fa3ed/2023-11-13/video.m3u8?auth=4e295b8de7c845abe60c491f42b3edd3&expires=1737664772&type=edge&asn=47524&node=-t_uhHRqG3ysolf9CO1X8TCR7ZtuucpffTYj9JAYCwCnHfXiziXu3qLdOR7_97LAFyqOTj0ESzCv5iK5ZVN4uA"
+  },
+  {
+    "name": "S1 Ep2",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/13bcecb7491a9140f138bad169d14bc9/2023-11-13/video.m3u8?auth=ac3a8c30460376abbedd5aafaa7ffe44&expires=1737664811&type=edge&asn=47524&node=4AtgGR2w10mmgegttL9q079lS8x_q_79rs6jvf9D1rTTprxN_QONWOylZzeg0s-zRqJ3E4oiKCS91-LIu0rL2g"
+  },
+  {
+    "name": "S1 Ep3",
+    "networkVideos" : "https://hls33-eu.zcdn.stream/343b626f23b50ee22dd8980e88edc033/2023-11-13/video.m3u8?auth=770c5201d5033dd6442a9f414642130a&expires=1737664836&type=edge&asn=47524&node=FLo8MotEFqI0gPSCMqBX3T1DuNAXZQIoNNKEcKDU8NQGcp9IGeHFHuNVk0xhTETuY42B7Up58lmYlE6sYyn3oQ"
+  },
+  {
+    "name": "S1 Ep4",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/248841db1ece7a954d858c624edc91ca/2023-11-13/video.m3u8?auth=c801057c5d7bc94a017aa58c64f40a96&expires=1737664863&type=edge&asn=47524&node=HiNtQCpN3G8NFPgZ86LsK8V-2UJECSaDI7RFnWsWkQ-iIeUnWd9UZ7Cnjk-DxbUWG9CvoxtALLlmrN84iJF5Kw"
+  },
+  {
+    "name": "S1 Ep5",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/d680f78d1ff648f58f2f6ee295a36fdd/2023-11-13/video.m3u8?auth=aeb288e4226f98b4a88a03fa8c86e7da&expires=1737664894&type=edge&asn=47524&node=VO5ml-KQY2qKyJql4pVFX7o_KWOuTcvOGJqVFdA3Ka_c5ple_XuesrAKg3sh0qHMjCQ63MjsZ236UopLYEArkwyOZ9NvvZQTIVaJjpLUuHo"
+  },
+  {
+    "name": "S1 Ep6",
+    "networkVideos" : "https://hls32-eu.zcdn.stream/e98f1a65e7ec2aa1c2c96406ade37f24/2023-11-13/video.m3u8?auth=70339c5ed355deced25b89bc01e3265a&expires=1737664923&type=edge&asn=47524&node=9n5oSXUzOMrVFuDucQR5E82fqYdMlIjzFQ3ZbvsCypD0d7s3neLcRV4nbwh9P_zBLMxJzB2gRvidZHAfnyW-sQ"
+  },
+  {
+    "name": "S2 Ep1",
+    "networkVideos" : "https://hls30-eu.zcdn.stream/5afe61ea09bc8418cb6532755b8a4f99/2023-11-13/video.m3u8?auth=2a1338b9a426f5f32122e33c4e616993&expires=1737664950&type=edge&asn=47524&node=g6WNPI-w2GzSgudUvcQLTgR8RkMGY5YlOuzk8BivWlL61Y_FhAYseJeymjBlwlhGljvvaOfsmIGZiu-2UVft5A"
+  },
+  {
+    "name": "S2 Ep2",
+    "networkVideos" : "https://hls30-eu.zcdn.stream/e742ee7bba2a7f3880ba06e710bca88f/2023-11-13/video.m3u8?auth=1cf5f9bea72a18bb482cdfb3adb33508&expires=1737664977&type=edge&asn=47524&node=NS67Ys6GL9thLkzPaPr0Fjnpt1LCPXsmQQdwbYSXmqTTkjnzPWXswnb7m6opIymiKqy2uRmZTM3JBEBaCTMtuQ"
+  },
+  {
+    "name": "S2 Ep3",
+    "networkVideos" : "https://hls30-eu.zcdn.stream/9e63b71d6ce45b0f95eef7df2d078683/2023-11-13/video.m3u8?auth=787728ee63c023ef27b7e1c9eddde57d&expires=1737665004&type=edge&asn=47524&node=30MZ3ZoncOqMjp5SNP-eeas--ObBx1cgK8WbHv_T17hbw7Z_6tg6TIoex8_rVnVbSLR9SXJKEK07jEzNV4T7Mw"
+  },
+  {
+    "name": "S2 Ep4",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/32e93ce7730698b692c4c23d2a766fb9/2023-11-13/video.m3u8?auth=62ab66228335aa13dc8a2159cc387b4c&expires=1737665035&type=edge&asn=47524&node=-qaHnyNaMz83eeq4epmX7f9Sh0rYv2V0jjCe_bOM7yH0VSjub8iZt_Rno8amlq3gIxQbkfc33j4jvsyHeeOOxQ"
+  },
+  {
+    "name": "S2 Ep5",
+    "networkVideos" : "https://hls33-eu.zcdn.stream/d84f24d4f5f1ea6c2437703115ddd059/2023-11-13/video.m3u8?auth=6820cbc4abd9c0699c28d26bfac1a201&expires=1737665065&type=edge&asn=47524&node=yAmw2RxR_axMl1oZZHma8RJX57WqBP0j_IFtwjJt4GeTj_gEpYCvV_qsTcNLtoujIQC8xgyTK2R94hgnpswG0g"
+  },
+  {
+    "name": "S2 Ep6",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/696c22275a528b18ae0049f893b75c72/2023-11-13/video.m3u8?auth=2aa08beda37fb6c91704ee54ea776c2d&expires=1737665095&type=edge&asn=47524&node=rRNDeO_WJGLKGjGaqoqkjnfzx31AiHQi2w3nkwzgH4bsFnr9WaYs7JSJI8Q5-rKczXfErSS_53L3GgB45TZ3eA"
+  },
+  {
+    "name": "S2 Ep7",
+    "networkVideos" : "https://hls33-eu.zcdn.stream/1b73cc3a9635411e5ad86aa17cfc1bc6/2023-11-13/video.m3u8?auth=22eb21e27ff59fad26cb36afcc33a7b4&expires=1737665156&type=edge&asn=47524&node=Uk6yGPdAxs7S4fUTc0a_TOyUsLeRCdOXHzH0l4j556TZJPH3hf-UqrOR-noB_bk6naFk976NaYoV5t8eGTWsZg"
+  },
+  {
+    "name": "S2 Ep8",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/d34d1576d0675fbb2f77ee0e9fa6418d/2023-11-13/video.m3u8?auth=ffa14027a7a22c31b3f13cd720bcbe3e&expires=1737665201&type=edge&asn=47524&node=3Y7GuO9KUYU_fRNC9zYtlDH3WMbJwtXelcXSN4DJ5vxzQPPBpLBo-nypDCYfsImYQHrmx6ulPazFJ-1zRhTLeg"
+  },
+  {
+    "name": "S2 Ep9",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/1119f1d329482a00630f15ae5062bc4d/2023-11-13/video.m3u8?auth=dd21b3e2745acf9945b91f520e66799e&expires=1737665229&type=edge&asn=47524&node=iPqspcVNc55x6mZbJU2sSku7KYgcJPG6LT3skngFir7VB9z2bGMCC0k4YUCTxt196DKpDDhA5gAIqMkx7XjaZw"
+  },
+  {
+    "name": "S2 Ep10",
+    "networkVideos" : "https://hls30-eu.zcdn.stream/540042e2622ad8575934e47468335d77/2023-11-13/video.m3u8?auth=8a6270f2f0cba59ae521c9c4fe461410&expires=1737665252&type=edge&asn=47524&node=4EHMiMYoPtMxDPMwNkSGpKX_rX9U_GCdkOvhvWDf-Bhpmqsvu9dzc8VwFID-5HwNS0Z1MxB6OFcnebIujAIv_g"
+  },
+  {
+    "name": "S2 Ep11",
+    "networkVideos" : "https://hls32-eu.zcdn.stream/dbe88abf0b36629e3b10a44dfbac2e06/2023-11-13/video.m3u8?auth=c3be565509326278db27dcd24952956e&expires=1737665275&type=edge&asn=47524&node=PmcalalFboD51aad7mAKf0Z4uUqA3DKP9RGGHjIX-6tL-fVSZyZySO-ouWdvqAawRiwICrEY_xdNYePm_nvyqA"
+  },
+  {
+    "name": "S2 Ep12",
+    "networkVideos" : "https://hls31-eu.zcdn.stream/997a30603341af7f06e24ad4daa6563f/2023-11-13/video.m3u8?auth=9dc2bdf23cf8e3e9cca01510b232f3f0&expires=1737665418&type=edge&asn=47524&node=5LQS6RJrKLgC8ZGvEs_HbvMOdTqsmhErgZi5jDUUDAmqkMIs5pT5VVycBPGqd0It4ftGu3GYJOEGTx8pu6uYag"
+  },
+  {
+    "name": "S2 Ep13",
+    "networkVideos" : "https://hls30-eu.zcdn.stream/db71b428903bc1ed648153706f404e6b/2023-11-13/video.m3u8?auth=7566e172ac359fbb8bd198535381470d&expires=1737665445&type=edge&asn=47524&node=jkWiwrUudmIwR55y6lo8La0zSQuWzUD-0-TIS7ijkoYbLqiTwYe2pDwCpxJJbBY3Fi6TUkd7wS4LdBLdPfodQg"
+  },
+  {
+    "name": "S3 Ep1",
+    "networkVideos" : "https://hls30-eu.zcdn.stream/ffbb0e7a250dd8c7d60c4b1946e7d713/2023-11-13/video.m3u8?auth=14fef32744abd80752fe934b13cf22ff&expires=1737665487&type=edge&asn=47524&node=p7kKdqR64vqrN5pho1pyvSBWx6RBDjX5xQ4t4M34TCigbZo-qoU0Rb7QcV4t9f3bpqlX7WamnZq7FPr70iwf3A"
+  },
+  {
+    "name": "S3 Ep2",
+    "networkVideos" : "https://hls32-eu.zcdn.stream/0cc06c13850b5e254cbd2b55317607b7/2023-11-13/video.m3u8?auth=6f955395497c73517d5e5a29d0babad3&expires=1737665535&type=edge&asn=47524&node=iLr63C--MuBfzJQel_8NybNog_-iQDuRE79xDeWdbtRw1JbTVn5DBafOK4u2FASnEhUGnXpCuBrm3FiJ8RICZA"
+  },
+  {
+    "name": "S3 Ep3",
+    "networkVideos" : "https://hls33-eu.zcdn.stream/9b39c758b19c1de3ad1b91ea8085a499/2023-11-13/video.m3u8?auth=c206706967e231c353eb221a530b4c11&expires=1737665636&type=edge&asn=47524&node=ajR0skpQo29ATBBY7OURvRVXCyTxoIg-iamtNSAmGtq99tO77NxX40skE2uzyyBnn63oD5XffUqnuNzD8d8v63FxlZEhseHkDCWLFmPzRdE"
+  },
+  {
+    "name": "S3 Ep4",
+    "networkVideos" : "https://hls30-eu.zcdn.stream/e32b2556479381f2d6f47a0d18714af4/2023-11-13/video.m3u8?auth=badb68f21ddb0ff456d0c5adc1317a75&expires=1737665682&type=edge&asn=47524&node=ezjpbPmRhXLxazCiTYxnVH_IU6Nk_FTVKtavKzBHMflI_MWPOWPaNPWh9Q7fwDTwSQ7TQFX2HwexlbRX55OB5w"
+  },
+  {
+    "name": "S3 Ep5",
+    "networkVideos" : "https://hls32-eu.zcdn.stream/5f3bcea80f6c2b74c8ce9a171c62bfb0/2023-11-13/video.m3u8?auth=cd0d9e6d7fc990facf252e4273523806&expires=1737665721&type=edge&asn=47524&node=WR_cJgnu3lMoGxsJ3ffvc8cy7Nod3wHbqVd-awgsxom4m1mKIH7oAVFezkgpFBaHDvanAoSM7q752Dp0O8iqGgQ8HGGgvbEEoNaiPhJHfek"
+  },
+  {
+    "name": "S3 Ep6",
+    "networkVideos" : "https://hls33-eu.zcdn.stream/d94753279c275e10e20d3b5248a56c47/2023-11-13/video.m3u8?auth=884b7d8a4471a6e835001251262800d3&expires=1737665739&type=edge&asn=47524&node=Ht6InjXneZ3kZ34kuOsT51CD1CiHvNcaCQWW4CbEEjeEzLI3qIHovioEoZkPsFMPZo08SXO26gsAF9Mx_5aHWA"
+  },
+]
