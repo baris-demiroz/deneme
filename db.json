@@ -2,10 +2,10 @@
   "videos": [
     {
       "name": "Canlı dnm",
-      "videoUrl": "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=75sjfpfrwhq9&app=ed3904e8-737b-4a5e-85",
+      "videoUrl": "dnm",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-        "Referer": "https://www.tabii.com"
+        "Referer": "dnm"
       }
     },
     {
